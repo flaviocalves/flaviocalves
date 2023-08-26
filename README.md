@@ -2,6 +2,7 @@
 <img src=https://miro.medium.com/v2/resize:fit:1400/1*tf_mOK5k59ENA8yZ_I72dQ.jpeg alt=celebrate width=300 align=right>
 
 ## Sobre Mim
+*"Não tenho medo de tempestades, estou aprendendo a navegar no meu navio."*
 
 >Certificado como um Tecnólogo em Gestão da Tecnologia da Informação e devidamente "decorado" com um MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.
 
