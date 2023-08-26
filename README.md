@@ -1,12 +1,11 @@
-# <span style="color:ffffff;"> Flávio Cantanhede Alves </span>
+# Flávio Cantanhede Alves :libra:
+<img src=https://miro.medium.com/v2/resize:fit:1400/1*tf_mOK5k59ENA8yZ_I72dQ.jpeg alt=celebrate width=500 align=right>
 
-<img src=https://apexensino.com.br/wp-content/uploads/2017/03/blog_660xauto_235_what-makes-a-project-manager-great.jpg alt=celebrate width=200 align=right>
-
-## <span style="color:f39c12;"> Sobre Mim </span>
+## Sobre Mim
 
 >Certificado como um Tecnólogo em Gestão da Tecnologia da Informação e devidamente "decorado" com um MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.
 
->Mas não pense que sou só mais um *"geek"* de carteirinha. Estou aqui com um desejo profundo de inovação, como um cientista maluco das soluções tecnológicas 🤖. Minha missão? Revolucionar com novas metodologias, práticas que realmente funcionam e ferramentas tão afiadas que fariam o *MacGyver* corar de inveja. Tudo para otimizar processos e entregar serviços de tirar o chapéu. Sim, estou na busca implacável pelos melhores resultados, como um super-herói da eficiência!
+>Mas não pense que sou só mais um *"geek"* de carteirinha. Estou aqui com um desejo profundo de inovação, como um cientista maluco das soluções tecnológicas 🤖. Minha missão? Revolucionar com novas metodologias, práticas que realmente funcionam e ferramentas tão afiadas :hocho: que fariam o *MacGyver* corar de inveja. Tudo para otimizar processos e entregar serviços de tirar o chapéu. Sim, estou na busca implacável pelos melhores resultados, como um super-herói da eficiência!
 
 >Se o ditado clássico de que *"duas cabeças pensam melhor do que uma"* já faz parte do seu repertório, então estamos na mesma sintonia. Tenho uma fé inabalável no incrível poder de uma equipe verdadeiramente multidisciplinar, algo que considero como um smoothie repleto de diferentes sabores de competências. A arte de manter todas essas mentes brilhantes em perfeita harmonia é o que me fascina.
 
@@ -14,11 +13,11 @@
 
 >E quando os desafios se tornam mais emocionantes 🌶️ do que um prato de pimenta, é aí que minha empolgação realmente ganha vida. Repensar, inovar e conduzir acrobacias com processos são como uma sinfonia que ressoa nos meus ouvidos. Na verdade, eles se assemelham mais a poderosos acordes de um autêntico rock'n'roll 🤘.
 
->Quanto à tecnologia, eu não vejo apenas zeros e uns. Para mim, é como a base de lançamento das oportunidades. Mas a verdadeira mágica acontece quando esses dados se transformam em insights, como fazer um bolo a partir de ingredientes mágicos. As decisões se tornam mais claras, mesmo nos cenários mais caóticos.
+>Quanto à tecnologia, eu não vejo apenas zeros e uns. Para mim, é como a base de lançamento das oportunidades. Mas a verdadeira mágica acontece quando esses dados se transformam em insights, como fazer um bolo a partir de ingredientes mágicos🪄. As decisões se tornam mais claras, mesmo nos cenários mais caóticos.
 
->Se você busca alguém que não só fala a língua tecnológica, mas também é fluente em inovação, eficiência e criatividade, não precisa procurar mais 🤝. Sou o seu "techie" de estimação, pronto para sacudir o mundo da tecnologia! 🚀
+>Se você busca alguém que não só fala a língua tecnológica, mas também é fluente em inovação, eficiência e criatividade, não precisa procurar mais 🤝🎯. Sou o seu "techie" de estimação, pronto para sacudir o mundo da tecnologia! 🚀
 
-## <span style="color:f39c12;">Habilidades</span>
+## Habilidades
 
 - **Hard Skills:** 
 
@@ -30,14 +29,14 @@
     - Foco e Introspecção em Projetos Complexos: Em projetos complexos, demonstro uma capacidade natural de concentração e introspecção. Minha habilidade de manter o foco me ajuda a mergulhar profundamente em desafios intricados e encontrar soluções eficazes.
     - Afeição pela Natureza e Discernimento Socia: Nutro um profundo amor por animais e pela natureza, o que me conecta com a simplicidade e beleza do mundo ao nosso redor. Em relação às interações sociais, sou seletivo, preferindo relações significativas e genuínas.
 
-## <span style="color:f39c12;">Experiência Técnica</span>
+## Experiência Técnica
 
 - Dediquei um extenso período à área de Suporte de TI, abrangendo desde o suporte direto aos usuários até a definição de requisitos, realização de testes e homologações. Essa jornada me levou a conquistar cargos de liderança em diferentes momentos. No entanto, meu foco atual reside na criação de projetos pessoais e na busca constante por atualizações no setor. 
 
-## <span style="color:f39c12;">Portfólio</span>
+## Portfólio
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/flaviocalves)
 
-## <span style="color:f39c12;">Contato</span>
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-alves-b30945b4/)
