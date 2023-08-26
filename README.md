@@ -32,7 +32,8 @@
 
 ## Experiência Técnica
 
-- Dediquei um extenso período à área de Suporte de TI, abrangendo desde o suporte direto aos usuários até a definição de requisitos, realização de testes e homologações. Essa jornada me levou a conquistar cargos de liderança em diferentes momentos. No entanto, meu foco atual reside na criação de projetos pessoais e na busca constante por atualizações no setor. 
+- Dediquei um extenso período à área de Suporte de TI, abrangendo desde o suporte direto aos usuários até a definição de requisitos, realização de testes e homologações. Essa jornada me levou a conquistar cargos de liderança em diferentes momentos. No entanto, meu foco atual reside na criação de projetos pessoais e na busca constante por atualizações no setor.
+- Atualmente, estou desvendando os mistérios do universo como um analista RPA em uma empresa de planos de saúde. Afinal, alguém tem que botar um pouco de lógica nesse caos saudável, não é? 😄
 
 ## Portfólio
 
