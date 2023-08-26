@@ -1,5 +1,5 @@
 # Flávio Cantanhede Alves :libra:
-<img src=https://miro.medium.com/v2/resize:fit:1400/1*tf_mOK5k59ENA8yZ_I72dQ.jpeg alt=celebrate width=500 align=right>
+<img src=https://miro.medium.com/v2/resize:fit:1400/1*tf_mOK5k59ENA8yZ_I72dQ.jpeg alt=celebrate width=300 align=right>
 
 ## Sobre Mim
 
