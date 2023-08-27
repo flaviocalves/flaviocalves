@@ -25,11 +25,12 @@
     - Com expertise na área de Tecnologia da Informação desde 2007, meu enfoque é sólido, fundamentado na adoção de boas práticas, incorporando frameworks de destaque como ITIL, Agile, Scrum, Six Sigma, PMBOK e BABOK. Minha proficiência inclui metodologias como BPMN, em conjunção com conhecimento em Business Intelligence.
     - Estou em meio a uma emocionante mudança de carreira, avançando de forma constante com meu cronograma semanal de estudos em lógica de programação.
     - Estou imerso na exploração do desenvolvimento web front-end, adquirindo proficiência em linguagens fundamentais como HTML, CSS e JavaScript. Nos bastidores, estou engajado na elaboração de projetos que envolvem linguagens back-end, como Python e Ruby, direcionando minha atenção especialmente para a análise de dados. Adicionalmente, dedico-me com afinco à leitura aprofundada no abrangente campo da computação em nuvem, buscando compreender suas intricadas nuances e ilimitadas possibilidades.
-    - Tecnologias
-      
-        ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-        ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-        ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+    - Tecnologias:
+
+      ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+      ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+      ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+      ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
 - **Soft Skills:** 
     - Foco e Introspecção em Projetos Complexos: Em projetos complexos, demonstro uma capacidade natural de concentração e introspecção. Minha habilidade de manter o foco me ajuda a mergulhar profundamente em desafios intricados e encontrar soluções eficazes.
