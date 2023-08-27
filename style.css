@@ -5,12 +5,14 @@ body {
     margin: auto;
 }
 
-#title, .sub_title, .post_title {
-    color: blue;
+#title,
+.sub_title,
+.post_title {
+    color: black;
 }
 
 .photo {
-    border-radius: 50%;    
+    border-radius: 50%;
 }
 
 .post_title {
@@ -45,7 +47,6 @@ body {
 
 .title {
     text-align: center;
-    text-decoration-color: blue;
     font-style: italic;
     font-size: 40px;
     text-transform: uppercase;
@@ -73,7 +74,6 @@ body {
 }
 
 .contacts_list {
-    lis
     padding-left: 15px;
     list-style-type: none;
 }
