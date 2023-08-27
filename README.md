@@ -14,7 +14,7 @@
 
 >Minha curiosidade? Alice ficaria com inveja 🫣. Acompanhar todas as reviravoltas tecnológicas e mudanças de mercado é a minha especialidade. Não só absorvo informações como facilidade, mas também tenho essa mania de filtrar os detalhes mais importantes. *Sherlock* das informações 🧐!
 
->E quando os desafios se tornam mais emocionantes 🌶️ do que um prato de pimenta, é aí que minha empolgação realmente ganha vida. Repensar, inovar e conduzir acrobacias com processos são como uma sinfonia que ressoa nos meus ouvidos. Na verdade, eles se assemelham mais a poderosos acordes de um autêntico rock'n'roll 🤘.
+>E quando os desafios se tornam mais emocionantes do que um prato de pimenta🌶️ , é aí que minha empolgação realmente ganha vida. Repensar, inovar e conduzir acrobacias com processos são como uma sinfonia que ressoa nos meus ouvidos. Na verdade, eles se assemelham mais a poderosos acordes de um autêntico rock'n'roll 🤘.
 
 >Quanto à tecnologia, eu não vejo apenas zeros e uns. Para mim, é como a base de lançamento das oportunidades. Mas a verdadeira mágica acontece quando esses dados se transformam em insights, como fazer um bolo a partir de ingredientes mágicos🪄. As decisões se tornam mais claras, mesmo nos cenários mais caóticos.
 
