@@ -37,3 +37,5 @@
 - **Soft Skills:** 
     - Foco e Introspecção em Projetos Complexos: Em projetos complexos, demonstro uma capacidade natural de concentração e introspecção. Minha habilidade de manter o foco me ajuda a mergulhar profundamente em desafios intricados e encontrar soluções eficazes.
     - Afeição pela Natureza e Discernimento Socia: Nutro um profundo amor por animais e pela natureza, o que me conecta com a simplicidade e beleza do mundo ao nosso redor. Em relação às interações sociais, sou seletivo, preferindo relações significativas e genuínas.
+
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviocalves&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
