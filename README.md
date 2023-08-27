@@ -1,11 +1,12 @@
-# Flávio Cantanhede Alves :libra:
+<h1 align="left"> :libra: Flávio Cantanhede Alves </h1>
+
 <img src=https://miro.medium.com/v2/resize:fit:1400/1*tf_mOK5k59ENA8yZ_I72dQ.jpeg alt=celebrate width=250 align=right>
 
 *"Não tenho medo de tempestades, estou aprendendo a navegar no meu navio."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-alves-b30945b4/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/flaviocalves)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-alves-b30945b4/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/flaviocalves) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC&color:FFF)](mailto:flavio.c.alves@hotmail.com)
 
->Certificado como um Tecnólogo em Gestão da Tecnologia da Informação e devidamente "decorado" com um MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.
+<p align="left" >Certificado como um Tecnólogo em Gestão da Tecnologia da Informação e, é claro :blush:, com um MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.</p><br>
 
 >Mas não pense que sou só mais um *"geek"* de carteirinha. Estou aqui com um desejo profundo de inovação, como um cientista maluco das soluções tecnológicas 🤖. Minha missão? Revolucionar com novas metodologias, práticas que realmente funcionam e ferramentas tão afiadas :hocho: que fariam o *MacGyver* corar de inveja. Tudo para otimizar processos e entregar serviços de tirar o chapéu. Sim, estou na busca implacável pelos melhores resultados, como um super-herói da eficiência!
 
@@ -18,6 +19,7 @@
 >Quanto à tecnologia, eu não vejo apenas zeros e uns. Para mim, é como a base de lançamento das oportunidades. Mas a verdadeira mágica acontece quando esses dados se transformam em insights, como fazer um bolo a partir de ingredientes mágicos🪄. As decisões se tornam mais claras, mesmo nos cenários mais caóticos.
 
 >Se você busca alguém que não só fala a língua tecnológica, mas também é fluente em inovação, eficiência e criatividade, não precisa procurar mais 🤝🎯. Sou o seu "techie" de estimação, pronto para sacudir o mundo da tecnologia! 🚀
+    
 ## Habilidades
 
 - **Hard Skills:** 
