@@ -1,4 +1,4 @@
-/*var nNome = 'Flavio';
+var nNome = 'Flavio';
 console.log(nNome);
 
 let nNome2 = 'Flavio2';
@@ -14,6 +14,6 @@ function escopoLocal() {
     let escopoLocalInterno = 'local';
     console.log(escopoLocalInterno);
 }
-escopoLocal();*/
+escopoLocal();
 
 alert("Sejá bem vindo ao meu Profile");
