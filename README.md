@@ -1,8 +1,9 @@
 # Flávio Cantanhede Alves :libra:
-<img src=https://miro.medium.com/v2/resize:fit:1400/1*tf_mOK5k59ENA8yZ_I72dQ.jpeg alt=celebrate width=300 align=right>
+<img src=https://miro.medium.com/v2/resize:fit:1400/1*tf_mOK5k59ENA8yZ_I72dQ.jpeg alt=celebrate width=250 align=right>
 
-## Sobre Mim
 *"Não tenho medo de tempestades, estou aprendendo a navegar no meu navio."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-alves-b30945b4/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/flaviocalves)
 
 >Certificado como um Tecnólogo em Gestão da Tecnologia da Informação e devidamente "decorado" com um MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.
 
@@ -30,15 +31,7 @@
     - Foco e Introspecção em Projetos Complexos: Em projetos complexos, demonstro uma capacidade natural de concentração e introspecção. Minha habilidade de manter o foco me ajuda a mergulhar profundamente em desafios intricados e encontrar soluções eficazes.
     - Afeição pela Natureza e Discernimento Socia: Nutro um profundo amor por animais e pela natureza, o que me conecta com a simplicidade e beleza do mundo ao nosso redor. Em relação às interações sociais, sou seletivo, preferindo relações significativas e genuínas.
 
-## Experiência Técnica
+## Experiências
 
 - Dediquei um extenso período à área de Suporte de TI, abrangendo desde o suporte direto aos usuários até a definição de requisitos, realização de testes e homologações. Essa jornada me levou a conquistar cargos de liderança em diferentes momentos. No entanto, meu foco atual reside na criação de projetos pessoais e na busca constante por atualizações no setor.
 - Atualmente, estou desvendando os mistérios do universo como um analista RPA em uma empresa de planos de saúde. Afinal, alguém tem que botar um pouco de lógica nesse caos saudável, não é? 😄
-
-## Portfólio
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/flaviocalves)
-
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-alves-b30945b4/)
