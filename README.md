@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/flaviocalves)&nbsp;
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC&color:FFF)](mailto:flavio.c.alves@hotmail.com)&nbsp;
 
-<p align="left" >Certificado como um Tecnólogo em Gestão da Tecnologia da Informação e, é claro :blush:, com um MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.</p><br>
+<p align="left" >Certificado como um Tecnólogo em Gestão da Tecnologia da Informação com MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.</p><br>
 
 >Mas não pense que sou só mais um *"geek"* de carteirinha. Estou aqui com um desejo profundo de inovação, como um cientista maluco das soluções tecnológicas 🤖. Minha missão? Revolucionar com novas metodologias, práticas que realmente funcionam e ferramentas tão afiadas :hocho: que fariam o *MacGyver* corar de inveja. Tudo para otimizar processos e entregar serviços de tirar o chapéu. Sim, estou na busca implacável pelos melhores resultados, como um super-herói da eficiência!
 
@@ -23,6 +23,7 @@
 >Se você busca alguém que não só fala a língua tecnológica, mas também é fluente em inovação, eficiência e criatividade, não precisa procurar mais 🤝🎯. Sou o seu "techie" de estimação, pronto para sacudir o mundo da tecnologia! 🚀
 
 ## Ferramentas:
+
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=30A3DC)](https://code.visualstudio.com/docs)&nbsp;
 [![microsoft-office](https://img.shields.io/badge/-microsoft_office-000?style=for-the-badge&logo=microsoft-office&labelColor=30A3DC)](https://learn.microsoft.com/pt-br/microsoft-365/?view=o365-worldwide)&nbsp;
 [![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)&nbsp;
