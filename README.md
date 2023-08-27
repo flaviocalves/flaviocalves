@@ -29,7 +29,7 @@
 [![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)&nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)&nbsp;
-[![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)]([https://www.markdownguide.org/](https://code.visualstudio.com/docs/languages/markdown)&nbsp;
+[![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)](https://code.visualstudio.com/docs/languages/markdown)&nbsp;
     
 ## Habilidades
 
