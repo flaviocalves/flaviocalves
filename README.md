@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/flaviocalves)&nbsp;
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC&color:FFF)](mailto:flavio.c.alves@hotmail.com)&nbsp;
 
-<p align="left" >Certificado como um Tecnólogo em Gestão da Tecnologia da Informação com MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.</p><br>
+<p align="left" >Tecnólogo em Gestão da Tecnologia da Informação com MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.</p><br>
 
 >Mas não pense que sou só mais um *"geek"* de carteirinha. Estou aqui com um desejo profundo de inovação, como um cientista maluco das soluções tecnológicas 🤖. Minha missão? Revolucionar com novas metodologias, práticas que realmente funcionam e ferramentas tão afiadas :hocho: que fariam o *MacGyver* corar de inveja. Tudo para otimizar processos e entregar serviços de tirar o chapéu. Sim, estou na busca implacável pelos melhores resultados, como um super-herói da eficiência!
 
