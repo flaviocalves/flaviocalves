@@ -29,7 +29,7 @@
     - Estou imerso na exploração do desenvolvimento web front-end, adquirindo proficiência em linguagens fundamentais como HTML, CSS e JavaScript. Nos bastidores, estou engajado na elaboração de projetos que envolvem linguagens back-end, como Python e Ruby, direcionando minha atenção especialmente para a análise de dados. Adicionalmente, dedico-me com afinco à leitura aprofundada no abrangente campo da computação em nuvem, buscando compreender suas intricadas nuances e ilimitadas possibilidades.
     - Tecnologias:
 
-      [![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)]([https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf))
+      [![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
       ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
       ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
       ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
