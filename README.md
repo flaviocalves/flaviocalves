@@ -21,7 +21,7 @@
 
 >Se você busca alguém que não só fala a língua tecnológica, mas também é fluente em inovação, eficiência e criatividade, não precisa procurar mais 🤝🎯. Sou o seu "techie" de estimação, pronto para sacudir o mundo da tecnologia! 🚀
 
-## Ferramentas:
+## Ferramentas
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=30A3DC)](https://code.visualstudio.com/docs)&nbsp;
 [![microsoft-office](https://img.shields.io/badge/-microsoft_office-000?style=for-the-badge&logo=microsoft-office&labelColor=30A3DC)](https://learn.microsoft.com/pt-br/microsoft-365/?view=o365-worldwide)&nbsp;
