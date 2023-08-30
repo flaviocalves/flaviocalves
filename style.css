@@ -25,7 +25,7 @@ body {
 .post {
     background-color: #FFF;
     padding: 10px;
-    border-top: 2px dotted rgb(151, 227, 151);
+    border-top: 2px dotted green;
     border-right: 4px dashed pink;
     border-bottom: 1px solid purple;
     border-left: 4px dotted cyan;
