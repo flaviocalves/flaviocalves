@@ -4,8 +4,7 @@
 
 *"Não tenho medo de tempestades, estou aprendendo a navegar no meu navio."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-alves-b30945b4/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/flaviocalves)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fl%C3%A1vio-cantanhede-b30945b4/)&nbsp;
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC&color:FFF)](mailto:flavio.c.alves@hotmail.com)&nbsp;
 
 <p align="left" >Tecnólogo em Gestão da Tecnologia da Informação com MBA em Análise de Dados e Business Intelligence pela UDF - Universidade do Distrito Federal 👨‍🎓.</p><br>
@@ -22,7 +21,7 @@
 
 >Se você busca alguém que não só fala a língua tecnológica, mas também é fluente em inovação, eficiência e criatividade, não precisa procurar mais 🤝🎯. Sou o seu "techie" de estimação, pronto para sacudir o mundo da tecnologia! 🚀
 
-## Ferramentas:
+## Ferramentas
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=30A3DC)](https://code.visualstudio.com/docs)&nbsp;
 [![microsoft-office](https://img.shields.io/badge/-microsoft_office-000?style=for-the-badge&logo=microsoft-office&labelColor=30A3DC)](https://learn.microsoft.com/pt-br/microsoft-365/?view=o365-worldwide)&nbsp;
